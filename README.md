@@ -12,10 +12,10 @@ Os códigos da atividade estao organizados na na pasta src.
 
 ```
 src/
-    ├── q.1.c
-    ├── q.2.c
-    ├── q.3.ts
-    └── ...
+├── q.1.c
+├── q.2.c
+├── q.3.ts
+└── ...
 ```
 
 Cada arquivo contém o código-fonte referente a um exercício proposto pela atividade.
