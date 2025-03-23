@@ -1,3 +1,7 @@
+// Questão 12
+// Apresente uma função recursiva para a operação divisão inteira x / y. Use a seguinte
+// assinatura: int divIntRec(int x, int y). Dica.: div(x,y) = div(x-y, y) + 1.
+
 function divIntRec(x: number, y: number): number {
   if (y === 0) {
     throw new Error("Divisão por zero não é permitida.");
