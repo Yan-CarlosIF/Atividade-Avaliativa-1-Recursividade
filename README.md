@@ -4,7 +4,7 @@ Repositório criado para armazenar os códigos da **Atividade Avaliativa 1** da 
 
 ## 📚 Sobre a atividade
 
-A proposta da atividade consiste na resolução de problemas utilizando **funções recursivas** nas linguagens escolhidas, escolhemos C e TypeScript para a resolução dos problemas.
+A proposta da atividade consiste na resolução de problemas utilizando **funções recursivas** nas linguagens escolhidas C e TypeScript para a resolução dos problemas.
 
 ## 📁 Estrutura do repositório
 
@@ -13,7 +13,7 @@ Os códigos da atividade estao organizados na na pasta src.
 ```
 src/
 ├── q.1.c
-├── q.2.c
+├── q.2.ts
 ├── q.3.ts
 └── ...
 ```
@@ -41,13 +41,9 @@ npm install
 npx tsx src/soma.ts
 ```
 
-## ✍️ Autores
+## ✍️ Aluno
 
 - **Yan Carlos**  
   Estudante de Ciência da Computação  
   IFCE - Campus Aracati  
   [GitHub](https://github.com/Yan-CarlosIF)
-
-- **Artur Soares**
-  Estudante de Ciência da Computação  
-  IFCE - Campus Aracati
